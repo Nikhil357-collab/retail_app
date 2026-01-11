@@ -6,3 +6,23 @@ Omnichannel retail and D2C growth makes forecast-driven replenishment a core cap
 
 Cost Savings 💰
 Fewer stockouts → higher revenue; lower safety stock → reduced holding costs. EOQ-based ordering cuts logistics overhea
+[CSV Sales Data] 
+      │
+      ▼
+[Feature Engineering]
+      │
+      ▼
+[Random Forest Model Training]
+      │
+      ▼
+[Forecast for SKU-Store]
+      │
+      ▼
+[Inventory Logic]
+      │
+      ▼
+[Outputs]
+- Average Daily Demand
+- Safety Stock
+- Reorder Point (ROP)
+- Recommended Order Quantity
