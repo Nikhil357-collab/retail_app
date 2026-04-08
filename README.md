@@ -1,4 +1,4 @@
-#### Acknowledgement##IIP-EDC
+#### Acknowledgement##IIP
 This project was developed with guidance AND support. 
 
 # retail_app
