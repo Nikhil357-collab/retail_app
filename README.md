@@ -1,3 +1,6 @@
+#### Acknowledgement##
+This project was developed with guidance AND support. 
+
 # retail_app
 Industry Adoption 🏭
 Retail planning suites (SAP IBP, Blue Yonder) operationalize similar logic: hybrid forecasts, safety stock by service level, EOQ, and PO recommendations.
